@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">modbus</string>
+
+    <!-- mainActivity -->
+    <string name="main_modbus_connect_ok">connect_ok</string>
+    <string name="main_modbus_connect_fail">connect_fail</string>
+
+</resources>

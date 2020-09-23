@@ -1,0 +1,1 @@
+include ':app', ':jamod-1.2-SNAPSHOT', ':usb-serial-for-android-v010'
